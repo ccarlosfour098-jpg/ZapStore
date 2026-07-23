@@ -1,0 +1,73 @@
+<!DOCTYPE html> <!-- Inicializacion de la pagina, se emplea el sistema de HTML5, su ultima version -->
+<html lang="es"> <!-- Especificacion del idioma usado en la pagina -->
+
+<head> <!-- contenido del encabezado -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Zap Store | Catalogo de Zapatos</title>
+
+    <link rel="stylesheet" href="css/variables.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+</head>
+
+<body> <!-- contenido del cuerpo de la pagina -->
+    <header> <!-- contenido del encabezado -->
+        <div class = "logo">
+            <h1>Zap Store</h1>
+        </div>
+
+        <nav>
+            <ul>
+                <li><a href="#">Inicio</a></li>
+                <li><a href="pages/categorias.html?categoria=Tacones">Tacones</a></li>
+                <li><a href="pages/categorias.html?categoria=Sandalias">Sandalias</a></li>
+                <li><a href="pages/categorias.html?categoria=Casual">Casual</a></li>
+                <li><a href="#">Contacto</a></li>
+            </ul>
+        </nav>
+        
+    </header>
+
+    <main> <!-- contenido principal donde ira el catalogo -->
+
+        <div class="container">
+
+        <section id="banner">
+        <h2>Cada paso refleja tu estilo.    </h2>
+        
+        <p>Descubre sandalias, tacones y calzado femenino diseñado para acompañarte en cualquier ocasión.</p>
+
+        <a href="#productos" class="btn-principal">
+            Explorar colección
+        </a>
+
+        </section>
+
+        <section id="categorias">
+            <h2>Categorías</h2>
+        </section>
+
+        <section id="productos">
+            <h2>Productos Destacados</h2>
+
+            <div id="contenedor-productos">
+                <!-- JavaScript insertará aquí las tarjetas -->
+                
+            </div>
+        </section>
+
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Zap Store. Todos los derechos reservados.</p>
+    </footer> <!-- contenido del pie de pagina -->
+        
+
+    <script src="js/main.js"></script>
+    <script src="js/productos.js"></script>
+
+</body>

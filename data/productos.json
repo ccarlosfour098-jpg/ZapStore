@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "codigo":"TAC-001",
+        "nombre":"Tacones Elegantes",
+        "precio":190000,
+        "categoria":"Tacones",
+        "marca":"Zap Store",
+        "descripcion":"Tacón elegante para ocasiones especiales.",
+        "tallas":[35,36,37,38,39],
+        "color":"Negro",
+        "stock":8,
+        "imagen":"img/productos/tacon1.jpg"
+    },
+
+    {
+        "id":2,
+        "codigo":"SAN-001",
+        "nombre":"Sandalia Summer",
+        "precio":129900,
+        "categoria":"Sandalias",
+        "marca":"Zap Store",
+        "descripcion":"Sandalia cómoda para uso diario.",
+        "tallas":[36,37,38,39],
+        "color":"Blanco",
+        "stock":12,
+        "imagen":"img/productos/sandalia1.jpg"
+    },
+
+    {
+        "id": 3,
+        "codigo":"TAC-002",
+        "nombre":"Tacones Verano",
+        "precio":139900,
+        "categoria":"Tacones",
+        "marca":"Zap Store",
+        "descripcion":"Tacón ligero para el verano.",
+        "tallas":[35,36,37,38,39],
+        "color":"Rosa",
+        "stock":12,
+        "imagen":"img/productos/tacon2.jpeg"
+    },
+
+    {
+        "id": 4,
+        "codigo":"TAC-003",
+        "nombre":"Tacones Verano",
+        "precio":139900,
+        "categoria":"Tacones",
+        "marca":"Zap Store",
+        "descripcion":"Tacón ligero para el verano.",
+        "tallas":[36,37,38,39],
+        "color":"Multicolor",
+        "stock":12,
+        "imagen":"img/productos/tacon3.jpeg"
+    }
+]

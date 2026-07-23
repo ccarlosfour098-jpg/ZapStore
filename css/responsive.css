@@ -1,0 +1,117 @@
+/* ==================================================
+TABLETS (1024px o menos)
+================================================== */
+
+@media screen and (max-width: 1024px){
+
+    .container{
+        width: 95%;
+    }
+
+    header{
+        padding: 20px 5%;
+    }
+
+    #contenedor-productos{
+        gap: 20px;
+    }
+
+    .tarjeta-producto{
+        width: 320px;
+    }
+
+}
+
+/* ==================================================
+CELULARES (768px o menos)
+================================================== */
+
+@media screen and (max-width:768px){
+
+    header{
+
+        flex-direction: column;
+
+        gap: 20px;
+
+    }
+
+    nav ul{
+
+        flex-wrap: wrap;
+
+        justify-content: center;
+
+        gap: 15px;
+
+    }
+
+    #banner{
+
+        padding: 60px 15px;
+
+    }
+
+    #banner h2{
+
+        font-size: 2rem;
+
+    }
+
+    #banner p{
+
+        font-size: 1rem;
+
+    }
+
+    .tarjeta-producto{
+
+        width:100%;
+
+        max-width:350px;
+
+    }
+
+}
+
+/* ==================================================
+CELULARES PEQUEÑOS (480px o menos)
+================================================== */
+
+@media screen and (max-width:480px){
+
+    .logo h1{
+
+        font-size:1.6rem;
+
+    }
+
+    #banner h2{
+
+        font-size:1.7rem;
+
+    }
+
+    .btn-principal{
+
+        width:100%;
+
+        text-align:center;
+
+    }
+
+    .btn-detalles{
+
+        width:90%;
+
+    }
+
+    footer{
+
+        text-align:center;
+
+        padding:20px;
+
+    }
+
+}
