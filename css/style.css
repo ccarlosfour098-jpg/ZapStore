@@ -213,3 +213,14 @@ CATÁLOGO
 
 }
 
+.footer{
+    background:var(--color-blanco);
+
+    text-align:center;
+
+    padding:20px 0;
+
+    margin-top:40px;
+
+    box-shadow:0px -3px 10px rgba(0,0,0,.08);
+}
