@@ -56,8 +56,6 @@ function mostrarProducto(producto) {
 
                 <p><strong>Color:</strong> ${producto.color}</p>
 
-                <p><strong>Stock:</strong> ${producto.stock}</p>
-
                 <p><strong>Tallas:</strong> ${producto.tallas.join(", ")}</p>
 
                 <h3>Descripción</h3>
