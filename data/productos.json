@@ -9,7 +9,6 @@
         "descripcion":"Tacón elegante para ocasiones especiales.",
         "tallas":[35,36,37,38,39],
         "color":"Negro",
-        "stock":8,
         "imagen":"img/productos/tacon1.jpg"
     },
 
@@ -23,7 +22,6 @@
         "descripcion":"Sandalia cómoda para uso diario.",
         "tallas":[36,37,38,39],
         "color":"Blanco",
-        "stock":12,
         "imagen":"img/productos/sandalia1.jpg"
     },
 
@@ -37,7 +35,6 @@
         "descripcion":"Tacón ligero para el verano.",
         "tallas":[35,36,37,38,39],
         "color":"Rosa",
-        "stock":12,
         "imagen":"img/productos/tacon2.jpeg"
     },
 
@@ -51,7 +48,110 @@
         "descripcion":"Tacón ligero para el verano.",
         "tallas":[36,37,38,39],
         "color":"Multicolor",
-        "stock":12,
         "imagen":"img/productos/tacon3.jpeg"
+    },
+
+    {
+        "id": 5,
+        "codigo": "TAC-004",
+        "nombre": "Tacones de Fiesta",
+        "precio": 149900,
+        "categoria": "Tacones",
+        "marca": "Zap Store",
+        "descripcion": ".",
+        "tallas": [35, 36, 37, 38, 39],
+        "color": "Morado",
+        "imagen": "img/productos/tacon4.jpeg"
+    },
+
+    {
+        "id": 6,
+        "codigo": "TAC-005",
+        "nombre": "Tacones casual",
+        "precio": 149900,
+        "categoria": "Tacones",
+        "marca": "Zap Store",
+        "descripcion": ".",
+        "tallas": [35, 36, 37, 38, 39],
+        "color": "Blanco",
+        "imagen": "img/productos/tacon5.jpeg"
+    },
+
+    {
+        "id": 7,
+        "codigo": "TAC-006",
+        "nombre": "Tacones casual",
+        "precio": 149900,
+        "categoria": "Tacones",
+        "marca": "Zap Store",
+        "descripcion": ".",
+        "tallas": [35, 36, 37, 38, 39],
+        "color": "Negro",
+        "imagen": "img/productos/tacon6.jpeg"
+    },
+
+    {
+        "id": 8,
+        "codigo": "TAC-007",
+        "nombre": "Tacones casual",
+        "precio": 149900,
+        "categoria": "Tacones",
+        "marca": "Zap Store",
+        "descripcion": ".",
+        "tallas": [35, 36, 37, 38, 39],
+        "color": "Rojo",
+        "imagen": "img/productos/tacon7.jpeg"
+    },
+
+    {
+        "id": 9,
+        "codigo": "TAC-008",
+        "nombre": "Tacones casual",
+        "precio": 149900,
+        "categoria": "Tacones",
+        "marca": "Zap Store",
+        "descripcion": ".",
+        "tallas": [35, 36, 37, 38, 39],
+        "color": "Negro",
+        "imagen": "img/productos/tacon8.jpeg"
+    },
+
+    {
+        "id": 10,
+        "codigo": "TAC-009",
+        "nombre": "Tacones casual",
+        "precio": 149900,
+        "categoria": "Tacones",
+        "marca": "Zap Store",
+        "descripcion": ".",
+        "tallas": [35, 36, 37, 38, 39],
+        "color": "Beaghe Oscuro",
+        "imagen": "img/productos/tacon9.jpeg"
+    },
+
+    {
+        "id": 11,
+        "codigo": "TAC-010",
+        "nombre": "Tacones casual",
+        "precio": 149900,
+        "categoria": "Tacones",
+        "marca": "Zap Store",
+        "descripcion": ".",
+        "tallas": [35, 36, 37, 38, 39],
+        "color": "Plateado",
+        "imagen": "img/productos/tacon10.jpeg"
+    },
+
+    {
+        "id": 12,
+        "codigo": "TAC-011",
+        "nombre": "Tacones casual",
+        "precio": 149900,
+        "categoria": "Tacones",
+        "marca": "Zap Store",
+        "descripcion": ".",
+        "tallas": [35, 36, 37, 38, 39],
+        "color": "Beaghe Claro",
+        "imagen": "img/productos/tacon12.jpeg"
     }
 ]
